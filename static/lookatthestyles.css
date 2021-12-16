@@ -1,0 +1,14 @@
+button, p, body {
+  text-align: justify;
+  letter-spacing: 1.5px;
+  text-align: center;
+  font-family: 'Cormorant Garamond'
+}
+
+h2, h1{
+  text-transform: uppercase;
+  letter-spacing: 12;
+  text-align: justify;
+  text-align: center;
+  font-family: 'Cormorant Garamond'
+}
