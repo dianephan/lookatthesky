@@ -19,11 +19,11 @@ thank you for contributing and looking at the sky!
 | december 2021 | build out the landing page and write up readme. 
 
 
-| future plans |  |
-| ----------- | ----------- |
-better site design overall hahahhaha 
-improved storage for all media files
-notification or "last updated" status for the last time the map was updated
+## future plans:
+* better site design overall hahahhaha 
+* improved storage for all media files
+* notification or "last updated" status for the last time the map was updated
 
+<br>
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/doctorkawaii.svg?style=social&label=Follow%20%40doctorkawaii)](https://twitter.com/doctorkawaii)
