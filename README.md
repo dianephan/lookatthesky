@@ -17,6 +17,7 @@ thank you for contributing and looking at the sky!
 | january 2021 | webapp broke due to deprecated clarifai api. refactored the code and redeployed back onto aws.|
 | june 2021 | presented the non whatsapp users an opportunity to participate through manually registering coordinates through the website. |
 | december 2021 | build out the landing page and write up readme. 
+| january 2022 | happy anniversary to the song "look at the sky"!!!
 
 
 ## future plans:
