@@ -4,7 +4,7 @@
 ![gif of cursor going across google maps to view images](static/porterbday.gif)
 
 💫 ☁️ [look at the sky](http://lookatthesky.dianephan.me/) ☁️ 💫
-
+[read a quick tutorial on the twilio blog](https://www.twilio.com/blog/look-at-the-sky-mms-clarifai-google-maps-python-flask)
 [read the story behind the project](http://127.0.0.1:5500/templates/story.html)
 
 despite everything going on in the world, we are all connected under the same sky. 
