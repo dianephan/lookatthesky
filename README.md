@@ -5,7 +5,7 @@
 
 💫 ☁️ [look at the sky](http://lookatthesky.dianephan.me/) ☁️ 💫
 <br><br>[read a quick tutorial on the twilio blog](https://www.twilio.com/blog/look-at-the-sky-mms-clarifai-google-maps-python-flask)
-<br>[read the story behind the project](http://127.0.0.1:5500/templates/story.html)
+<br>[read the story behind the project](http://3.136.106.162:8080/story)
 
 despite everything going on in the world, we are all connected under the same sky. 
 thank you for contributing and looking at the sky!
